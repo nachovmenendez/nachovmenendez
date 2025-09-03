@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy Nacho  
 
-<!--
-**nachovmenendez/nachovmenendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Sobre mí  
+🎓 Estudiante de **Ingeniería en Sistemas** en Uruguay.  
+💻 Trabajo en el área de **tecnología en SouthGenetics Uruguay**.  
+⚡ Me interesan el **desarrollo de software**, la **integración con bases de datos** y la **automatización de procesos**.  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y herramientas  
+- Java & C++  
+- SQL  
+- Diseño UML (StarUML)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Actualmente aprendiendo  
+- Integraciones con APIs  
+- Mejores prácticas en arquitectura de software  
+- Herramientas para análisis y visualización de datos  
+
+---
+⭐️ _Siempre abierto a aprender y compartir conocimiento._
